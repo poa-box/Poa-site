@@ -1,0 +1,1 @@
+EPUB publishing permission test, 2026-11-13. Isolated test branch; no production changes.
